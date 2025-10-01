@@ -123,12 +123,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
     vendor/xiaomi/blossom/proprietary/vendor/bin/thermalloadalgod:$(TARGET_COPY_OUT_VENDOR)/bin/thermalloadalgod \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_imcb:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imcb \
+    vendor/xiaomi/blossom/proprietary/vendor/bin/volte_imcb.angelicain:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imcb.angelicain \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_imcb.mt6765:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imcb.mt6765 \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_imsm_93:$(TARGET_COPY_OUT_VENDOR)/bin/volte_imsm_93 \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_md_status:$(TARGET_COPY_OUT_VENDOR)/bin/volte_md_status \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_stack:$(TARGET_COPY_OUT_VENDOR)/bin/volte_stack \
+    vendor/xiaomi/blossom/proprietary/vendor/bin/volte_stack.angelicain:$(TARGET_COPY_OUT_VENDOR)/bin/volte_stack.angelicain \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_stack.mt6765:$(TARGET_COPY_OUT_VENDOR)/bin/volte_stack.mt6765 \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_ua:$(TARGET_COPY_OUT_VENDOR)/bin/volte_ua \
+    vendor/xiaomi/blossom/proprietary/vendor/bin/volte_ua.angelicain:$(TARGET_COPY_OUT_VENDOR)/bin/volte_ua.angelicain \
     vendor/xiaomi/blossom/proprietary/vendor/bin/volte_ua.mt6765:$(TARGET_COPY_OUT_VENDOR)/bin/volte_ua.mt6765 \
     vendor/xiaomi/blossom/proprietary/vendor/bin/wfca:$(TARGET_COPY_OUT_VENDOR)/bin/wfca \
     vendor/xiaomi/blossom/proprietary/vendor/bin/wmt_launcher:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_launcher \
