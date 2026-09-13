@@ -675,7 +675,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libvolte_xdmc_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvolte_xdmc_shr.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libvp8dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp8dec_sa.ca7.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libvp9dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp9dec_sa.ca7.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/libvt_custom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvt_custom.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libwa_ancbase.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_ancbase.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libwa_depth.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_depth.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/libwa_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_refocus.so \
